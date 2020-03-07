@@ -1,0 +1,49 @@
+div#top {
+    background: no-repeat url("../img/profile_header.jpg");
+    background-position: center top;
+    background-size: cover;
+    min-height: 700px;
+    height: 200px;
+    width: 100%;
+    position: relative;
+}
+
+div#topsection{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 300px;
+    color:white;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    vertical-align: middle;
+/*    background-color: rgba(255, 255, 255, 0.5);*/
+}
+
+.pseudo-transparent {
+    text-align: center;
+    background-color: rgba(115, 181, 225, 0.65);
+    height: 100%;
+}
+
+.section{
+    height: 500px;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    vertical-align: middle;
+    height: 200px;
+    position: relative;
+}
+
+.publication-list-item {
+    text-align: left;
+    font-size : 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
