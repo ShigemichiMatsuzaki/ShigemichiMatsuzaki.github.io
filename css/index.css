@@ -81,21 +81,15 @@ div#top {
     height: 30px;
 }
 
-.div-img-icon {
-    width: 25%;
-    height: 100px;
-    position: relative;
-    vertical-align: middle;
-}
-
-.img-icon {
-  max-height: 100%;
-  max-width: 100%;
+.skill-icon {
+  max-height: 100px;
+  max-width: 300px;
   top: 0;
   bottom: 0;
   right: 0;
   left: 0;
   margin: auto;
+  padding: 10px;
 }
 
 h1 {
