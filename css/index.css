@@ -85,6 +85,12 @@ div#top {
   background-image: url(img/doi_bw.png)
 }
 
+.my-btn-yellow {
+  color: #fff;
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+
 .skill-icon {
   max-height: 100px;
   max-width: 300px;
