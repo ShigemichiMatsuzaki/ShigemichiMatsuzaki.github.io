@@ -82,7 +82,9 @@ div#top {
 }
 
 .doi-icon {
-  background-image: url(../img/doi_bw.png)
+  background-image: url(../img/doi_bw.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
 
 .my-btn-yellow {
