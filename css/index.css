@@ -104,6 +104,17 @@ div#top {
   padding: 10px;
 }
 
+.fa.disabled,
+.fa[disabled],
+.disabled>.fa,
+[disabled]>.fa {
+  opacity: 0.5;
+  /*optional*/
+  cursor: not-allowed;
+  /*optional*/
+  pointer-events: none;
+}
+
 h1 {
   font-size: 50px;
   margin: 20px;
