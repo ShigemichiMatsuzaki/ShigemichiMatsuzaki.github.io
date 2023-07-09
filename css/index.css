@@ -108,7 +108,7 @@ div#top {
 .fa[disabled],
 .disabled>.fa,
 [disabled]>.fa {
-  opacity: 0.5;
+  opacity: 0.3;
   /*optional*/
   cursor: not-allowed;
   /*optional*/
